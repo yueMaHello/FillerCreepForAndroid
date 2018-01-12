@@ -1,69 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="25"
-    build-mode="COLD"
+    api-level="27"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1515464493705"
-    token="-8433886978685076542"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1515781573002"
+    token="-2236422216156582871"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2075" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="290" />
     <task
         name="verifier"
-        duration="0" />
+        duration="42" />
+
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1515464200680"
+        timestamp="1515781573002"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/outputs/apk/debug/app-debug.apk"
+            location="/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1515464493705"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

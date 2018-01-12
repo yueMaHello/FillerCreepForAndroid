@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/s/a/sajediba/projects/FillerCreepForAndroid/app/src/main/res/values/strings.xml",
+                    "source": "/Users/a123456/Desktop/cmput301/lab0/FillerCreepForAndroid/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "4,17,12,11,13,10,3,14,6,7,9,8,5,16,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
